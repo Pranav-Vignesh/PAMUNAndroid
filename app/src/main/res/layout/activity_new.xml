@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingVertical="20dp">
+
+    <TextView
+        android:id="@+id/heading"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:textColor="#0c14ac"
+        android:text="New Features in PAMUN 2018"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:id="@+id/blockPolitics"
+        android:layout_marginTop="40dp"
+        android:layout_marginStart="16dp"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:textColor="#111113"
+        android:text="@string/bpolitics"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/blockPoliticstext"
+        android:textSize="15dp"
+        android:autoLink="web"
+        android:layout_marginLeft="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginRight="@dimen/spacing_medium"
+        android:layout_marginEnd="@dimen/spacing_medium"
+        android:textColor="#111113"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp" />
+
+
+    <Button
+        android:id="@+id/learnmore"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginStart="16dp"
+        android:text="Learn More..."
+        android:textAllCaps="true"
+        android:textColor="#0c14ac"
+        android:background="@android:color/transparent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/spclausetopics"
+        android:layout_marginTop="40dp"
+        android:layout_marginStart="16dp"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:textColor="#111113"
+        android:text="@string/specialclausetopics"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/spclausetopicstext"
+        android:textSize="15dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginRight="@dimen/spacing_medium"
+        android:layout_marginEnd="@dimen/spacing_medium"
+        android:textColor="#111113"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp" />
+
+
+    <Button
+        android:id="@+id/learnmore2"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginStart="16dp"
+        android:text="Learn More..."
+        android:textAllCaps="true"
+        android:textColor="#0c14ac"
+        android:background="@android:color/transparent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/spt"
+        android:layout_marginTop="40dp"
+        android:layout_marginStart="16dp"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:textColor="#111113"
+        android:text="@string/spt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/spttext"
+        android:textSize="15dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginRight="@dimen/spacing_medium"
+        android:layout_marginEnd="@dimen/spacing_medium"
+        android:textColor="#111113"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp" />
+
+
+    <Button
+        android:id="@+id/learnmore3"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginStart="16dp"
+        android:text="Learn More..."
+        android:textAllCaps="true"
+        android:textColor="#0c14ac"
+        android:background="@android:color/transparent"
+        android:layout_height="wrap_content" />
+
+
+
+</LinearLayout>
+
+</ScrollView>

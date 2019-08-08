@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+android:background="#ffff"
+android:clickable="true">
+
+<TextView
+    android:id="@+id/dsg"
+    android:layout_marginTop="25dp"
+    android:layout_marginStart="16dp"
+    android:layout_marginLeft="16dp"
+    android:textSize="18dp"
+    android:textStyle="bold"
+    android:textColor="#111113"
+    android:text="Country Lists in Restricted Committees"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" />
+
+
+    <Button
+        android:id="@+id/scmembers"
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginStart="30dp"
+        android:text="Security Council Members"
+        android:textAllCaps="false"
+        android:textColor="#0c14ac"
+        android:background="@android:color/transparent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/ecosocmembers"
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginStart="30dp"
+        android:text="ECOSOC Members"
+        android:textAllCaps="false"
+        android:textColor="#0c14ac"
+        android:background="@android:color/transparent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/unodcmembers"
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginStart="30dp"
+        android:text="UNODC Members"
+        android:textAllCaps="false"
+        android:textColor="#0c14ac"
+        android:background="@android:color/transparent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/spcommitteemembers"
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginStart="30dp"
+        android:text="Special Conference Members"
+        android:textAllCaps="false"
+        android:textColor="#0c14ac"
+        android:background="@android:color/transparent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

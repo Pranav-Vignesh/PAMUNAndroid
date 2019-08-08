@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#ffff"
+    android:clickable="true">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="90dp"
+                android:text="@string/pamun"
+                android:textAllCaps="false"
+                android:textSize="20dp"
+                android:background="#ff5a5a"
+                android:textStyle="bold"
+                android:layout_margin="20dp"
+                android:id="@+id/pamunwebsite"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="90dp"
+                android:text="@string/charter"
+                android:textAllCaps="false"
+                android:textSize="20dp"
+                android:background="#6c87ff"
+                android:textStyle="bold"
+                android:layout_margin="20dp"
+                android:id="@+id/uncharter"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="90dp"
+                android:text="@string/humanrights"
+                android:textAllCaps="false"
+                android:textSize="20dp"
+                android:background="#5eff00"
+                android:textStyle="bold"
+                android:layout_margin="20dp"
+                android:id="@+id/universal"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="90dp"
+                android:text="@string/unausa"
+                android:textAllCaps="false"
+                android:textSize="20dp"
+                android:background="#43ffef"
+                android:textStyle="bold"
+                android:layout_margin="20dp"
+                android:id="@+id/una"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="90dp"
+                android:text="@string/bestdelegate"
+                android:textAllCaps="false"
+                android:textSize="20dp"
+                android:background="#ef9610"
+                android:textStyle="bold"
+                android:layout_margin="20dp"
+                android:id="@+id/best"/>
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

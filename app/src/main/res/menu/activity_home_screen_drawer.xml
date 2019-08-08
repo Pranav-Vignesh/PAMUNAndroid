@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/home"
+        android:title="Home" />
+
+    <group android:checkableBehavior="single">
+        <item android:title="PAMUN Features and Rules">
+            <menu>
+                <item
+                android:id="@+id/pamun2018"
+                android:icon="@drawable/realpamun"
+                android:title="PAMUN 2018" />
+                <item
+                    android:id="@+id/rop"
+                    android:icon="@drawable/rop"
+                    android:title="Rules of Procedure" />
+                <item
+                    android:id="@+id/cw"
+                    android:icon="@drawable/clause"
+                    android:title="Clause Writing" />
+
+            </menu>
+        </item>
+        <item android:title="Relevant Information">
+            <menu>
+                <item
+                    android:id="@+id/rci"
+                    android:icon="@drawable/country"
+                    android:title="Country Information" />
+
+                <item
+                    android:id="@+id/idr"
+                    android:icon="@drawable/importantres"
+                    android:title="Important Resources" />
+            </menu>
+        </item>
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/snap"
+                android:icon="@drawable/snapchat"
+                android:title="PAMUN Snapchat Story" />
+            <item
+                android:id="@+id/contactus"
+                android:icon="@drawable/contact"
+                android:title="Contact Us" />
+        </menu>
+    </item>
+
+</menu>

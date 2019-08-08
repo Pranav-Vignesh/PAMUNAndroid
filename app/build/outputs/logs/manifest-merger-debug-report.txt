@@ -1,0 +1,252 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:2:1-59:12
+MERGED from [com.android.support:design:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/befd2484956a41f10b2bdf83b3483064/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/34ff58cd0bf9a5e2ee15f2bfca3fdaa2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d9bf1f298db4712a57838ebb6927d0bb/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/8600c84f71cc88cbd0cc2eab48236a09/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/478cf8b169c7ed54ec14e6587d52532e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/ecbf157b7203b9e790d0759474123380/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/9578b5f50c2d55ce87a184b850051381/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/5b513398f7f739f29228f30c99419874/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/06b3879238c6a3b84cb3fa5e22a9684c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/829a9456102b87c1a6ccf5f65afa231c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/f5dae65b01236c1a058dee79860b1332/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/5c7d045b5f4824740061c72850127725/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/54a60a83b0d5c3caa1aca62890590ccb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/f19e2c0bf3f91dc20075e243b6b874f9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/88fdf46553da713ab7da2034db89464a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/a9c3105d549bb0610fa040b3408513c3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/2211e5f0075fcbb4498b8a639d4e0122/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/72a677f7b765c333ab68cf00163b8992/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c86c4e5576d30d25df8b1933abe80c95/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/ef8c8ff301394a2f68b2e3bdbe62143a/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/66301831223154e100484eaffafb1868/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/07b1205a42c7902550b68621fac6828c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6c0391d58b07d2f9f05fc40e88342cf9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/be04f4fe71cde0a3ce05e63acad5e219/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/310d7fede54aeddfbe7897f2cb5bd009/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/8c1ea31afd999a6233ce0503bc502eac/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/de7e3b2e1d04f9c71b929268a80798c7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/7f0bc59ad90128fe3b8bff4022188144/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/4dd5ee1c0b0afe509db7f860bcd5c234/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/693394922dc3baeb6cc763268ccc4b61/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/87f53f93d67659ba4d790da13eca6ec4/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:2:1-59:12
+	package
+		ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:2:1-59:12
+		INJECTED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:2:1-59:12
+		INJECTED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:6:22-76
+application
+ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:8:5-57:19
+MERGED from [com.android.support:design:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/befd2484956a41f10b2bdf83b3483064/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/befd2484956a41f10b2bdf83b3483064/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d9bf1f298db4712a57838ebb6927d0bb/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d9bf1f298db4712a57838ebb6927d0bb/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c86c4e5576d30d25df8b1933abe80c95/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c86c4e5576d30d25df8b1933abe80c95/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/ef8c8ff301394a2f68b2e3bdbe62143a/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/ef8c8ff301394a2f68b2e3bdbe62143a/AndroidManifest.xml:22:5-23:19
+	android:screenOrientation
+		ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:14:9-45
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c86c4e5576d30d25df8b1933abe80c95/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:13:9-62
+	android:configChanges
+		ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:10:9-44
+	android:icon
+		ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:11:9-51
+	android:allowBackup
+		ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:16:9-40
+activity#com.vigneshpranav.pamun.HomeScreenActivity
+ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:17:9-28:20
+	android:screenOrientation
+		ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:21:13-49
+	android:label
+		ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:20:13-39
+	android:configChanges
+		ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:19:13-48
+	android:theme
+		ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:22:13-56
+	android:name
+		ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:18:13-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:26:27-74
+activity#com.vigneshpranav.pamun.Theme_Issues_Activity
+ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:29:9-32:52
+	android:screenOrientation
+		ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:32:13-49
+	android:configChanges
+		ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:31:13-48
+	android:name
+		ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:30:13-50
+activity#com.vigneshpranav.pamun.ConferenceScheduleActivity
+ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:33:9-36:52
+	android:screenOrientation
+		ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:36:13-49
+	android:configChanges
+		ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:35:13-48
+	android:name
+		ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:34:13-55
+activity#com.vigneshpranav.pamun.NewActivity
+ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:37:9-40:52
+	android:screenOrientation
+		ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:40:13-49
+	android:configChanges
+		ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:39:13-48
+	android:name
+		ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:38:13-40
+activity#com.vigneshpranav.pamun.ExecTeamActivity
+ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:41:9-43:51
+	android:screenOrientation
+		ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:43:13-49
+	android:configChanges
+		ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:42:13-48
+	android:name
+		ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:41:19-51
+activity#com.vigneshpranav.pamun.GoodClauseActivity
+ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:44:9-46:51
+	android:screenOrientation
+		ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:46:13-49
+	android:configChanges
+		ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:45:13-48
+	android:name
+		ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:44:19-53
+activity#com.vigneshpranav.pamun.RelevantCountryInfoActivity
+ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:47:9-49:51
+	android:screenOrientation
+		ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:49:13-49
+	android:configChanges
+		ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:48:13-48
+	android:name
+		ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:47:19-62
+activity#com.vigneshpranav.pamun.ResearchReportActivity
+ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:50:9-52:51
+	android:screenOrientation
+		ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:52:13-49
+	android:configChanges
+		ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:51:13-48
+	android:name
+		ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:50:19-57
+activity#com.vigneshpranav.pamun.CountryListsActivity
+ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:53:9-56:20
+	android:screenOrientation
+		ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:55:13-49
+	android:configChanges
+		ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:54:13-48
+	android:name
+		ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml:53:19-55
+uses-sdk
+INJECTED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/befd2484956a41f10b2bdf83b3483064/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/befd2484956a41f10b2bdf83b3483064/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/34ff58cd0bf9a5e2ee15f2bfca3fdaa2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/34ff58cd0bf9a5e2ee15f2bfca3fdaa2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d9bf1f298db4712a57838ebb6927d0bb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d9bf1f298db4712a57838ebb6927d0bb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/8600c84f71cc88cbd0cc2eab48236a09/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/8600c84f71cc88cbd0cc2eab48236a09/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/478cf8b169c7ed54ec14e6587d52532e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/478cf8b169c7ed54ec14e6587d52532e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/ecbf157b7203b9e790d0759474123380/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/ecbf157b7203b9e790d0759474123380/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/9578b5f50c2d55ce87a184b850051381/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/9578b5f50c2d55ce87a184b850051381/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/5b513398f7f739f29228f30c99419874/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/5b513398f7f739f29228f30c99419874/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/06b3879238c6a3b84cb3fa5e22a9684c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/06b3879238c6a3b84cb3fa5e22a9684c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/829a9456102b87c1a6ccf5f65afa231c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/829a9456102b87c1a6ccf5f65afa231c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/f5dae65b01236c1a058dee79860b1332/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/f5dae65b01236c1a058dee79860b1332/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/5c7d045b5f4824740061c72850127725/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/5c7d045b5f4824740061c72850127725/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/54a60a83b0d5c3caa1aca62890590ccb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/54a60a83b0d5c3caa1aca62890590ccb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/f19e2c0bf3f91dc20075e243b6b874f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/f19e2c0bf3f91dc20075e243b6b874f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/88fdf46553da713ab7da2034db89464a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/88fdf46553da713ab7da2034db89464a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/a9c3105d549bb0610fa040b3408513c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/a9c3105d549bb0610fa040b3408513c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/2211e5f0075fcbb4498b8a639d4e0122/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/2211e5f0075fcbb4498b8a639d4e0122/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/72a677f7b765c333ab68cf00163b8992/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/72a677f7b765c333ab68cf00163b8992/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c86c4e5576d30d25df8b1933abe80c95/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c86c4e5576d30d25df8b1933abe80c95/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/ef8c8ff301394a2f68b2e3bdbe62143a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/ef8c8ff301394a2f68b2e3bdbe62143a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/66301831223154e100484eaffafb1868/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/66301831223154e100484eaffafb1868/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/07b1205a42c7902550b68621fac6828c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/07b1205a42c7902550b68621fac6828c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6c0391d58b07d2f9f05fc40e88342cf9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6c0391d58b07d2f9f05fc40e88342cf9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/be04f4fe71cde0a3ce05e63acad5e219/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/be04f4fe71cde0a3ce05e63acad5e219/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/310d7fede54aeddfbe7897f2cb5bd009/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/310d7fede54aeddfbe7897f2cb5bd009/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/8c1ea31afd999a6233ce0503bc502eac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/8c1ea31afd999a6233ce0503bc502eac/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/de7e3b2e1d04f9c71b929268a80798c7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/de7e3b2e1d04f9c71b929268a80798c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/7f0bc59ad90128fe3b8bff4022188144/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/7f0bc59ad90128fe3b8bff4022188144/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/4dd5ee1c0b0afe509db7f860bcd5c234/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/4dd5ee1c0b0afe509db7f860bcd5c234/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/693394922dc3baeb6cc763268ccc4b61/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/693394922dc3baeb6cc763268ccc4b61/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/87f53f93d67659ba4d790da13eca6ec4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/vigneshpranav/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/87f53f93d67659ba4d790da13eca6ec4/AndroidManifest.xml:20:5-44
+INJECTED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vigneshpranav/Documents/Personal Projects/PAMUN - APP/PAMUN/app/src/main/AndroidManifest.xml

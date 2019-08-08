@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffff"
+    android:clickable="true">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingVertical="10dp"
+        android:background="#ffff"
+        android:clickable="true">
+
+
+        <TextView
+            android:id="@+id/headingrop"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:textColor="#0c14ac"
+            android:text="Rules of Procedure"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"/>
+
+        <TextView
+            android:id="@+id/clausebaseddebate"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="16dp"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:textColor="#111113"
+            android:text="@string/clausedbaseddebate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/clausebaseddebatetext"
+            android:textSize="15dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginRight="@dimen/spacing_medium"
+            android:layout_marginEnd="@dimen/spacing_medium"
+            android:textColor="#111113"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp" />
+
+
+        <Button
+            android:id="@+id/learn_more_0"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Learn More..."
+            android:textAllCaps="true"
+            android:textColor="#0c14ac"
+            android:background="@android:color/transparent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/pointsmotions"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="16dp"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:textColor="#111113"
+            android:text="@string/pointsmotions"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/pointsmotionstext"
+            android:textSize="15dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginRight="@dimen/spacing_medium"
+            android:layout_marginEnd="@dimen/spacing_medium"
+            android:textColor="#111113"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp" />
+
+
+        <Button
+            android:id="@+id/learn_more_1"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Learn More..."
+            android:textAllCaps="true"
+            android:textColor="#0c14ac"
+            android:background="@android:color/transparent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/caucus"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="16dp"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:textColor="#111113"
+            android:text="@string/caucus_lobbying"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/caucustext"
+            android:textSize="15dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginRight="@dimen/spacing_medium"
+            android:layout_marginEnd="@dimen/spacing_medium"
+            android:textColor="#111113"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp" />
+
+        <Button
+            android:id="@+id/learn_more_2"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Learn More..."
+            android:textAllCaps="true"
+            android:textColor="#0c14ac"
+            android:background="@android:color/transparent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/structureofdebate"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="16dp"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:textColor="#111113"
+            android:text="@string/structureofdebate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/structureofdebatetext"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginEnd="@dimen/spacing_medium"
+            android:layout_marginRight="@dimen/spacing_medium"
+            android:textColor="#111113"
+            android:textSize="15dp"/>
+
+        <Button
+            android:id="@+id/learn_more_3"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Learn More..."
+            android:textAllCaps="true"
+            android:textColor="#0c14ac"
+            android:background="@android:color/transparent"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+            android:id="@+id/opencloseddebate"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="16dp"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:textColor="#111113"
+            android:text="@string/opencloseddebate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/opencloseddebatetext"
+            android:textSize="15dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginRight="@dimen/spacing_medium"
+            android:layout_marginEnd="@dimen/spacing_medium"
+            android:textColor="#111113"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp" />
+
+        <Button
+            android:id="@+id/learn_more_4"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Learn More..."
+            android:textAllCaps="true"
+            android:textColor="#0c14ac"
+            android:background="@android:color/transparent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/amendments"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="16dp"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:textColor="#111113"
+            android:text="@string/amendments"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/amendmentstext"
+            android:textSize="15dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginRight="@dimen/spacing_medium"
+            android:layout_marginEnd="@dimen/spacing_medium"
+            android:textColor="#111113"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp" />
+
+        <Button
+            android:id="@+id/learn_more_5"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Learn More..."
+            android:textAllCaps="true"
+            android:textColor="#0c14ac"
+            android:background="@android:color/transparent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/voting"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="16dp"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:textColor="#111113"
+            android:text="@string/voting"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/votingtext"
+            android:textSize="15dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginRight="@dimen/spacing_medium"
+            android:layout_marginEnd="@dimen/spacing_medium"
+            android:textColor="#111113"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp" />
+
+        <Button
+            android:id="@+id/learn_more_6"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Learn More..."
+            android:textAllCaps="true"
+            android:textColor="#0c14ac"
+            android:background="@android:color/transparent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/miscellaneous"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="16dp"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:textColor="#111113"
+            android:text="@string/miscellaneous"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/miscellaneoustext"
+            android:textSize="15dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginRight="@dimen/spacing_medium"
+            android:layout_marginEnd="@dimen/spacing_medium"
+            android:textColor="#111113"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp" />
+
+        <Button
+            android:id="@+id/learn_more_7"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Learn More..."
+            android:textAllCaps="true"
+            android:textColor="#0c14ac"
+            android:background="@android:color/transparent"
+            android:layout_height="wrap_content" />
+
+
+
+    </LinearLayout>
+
+</ScrollView>

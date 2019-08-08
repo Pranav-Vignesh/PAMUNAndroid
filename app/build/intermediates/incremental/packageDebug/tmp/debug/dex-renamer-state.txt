@@ -1,0 +1,4 @@
+#Sun Dec 23 09:47:10 CET 2018
+base.0=/Users/vigneshpranav/Documents/PAMUN/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

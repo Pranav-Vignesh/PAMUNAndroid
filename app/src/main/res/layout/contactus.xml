@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#ffff"
+    android:clickable="true">
+
+    <TextView
+        android:id="@+id/coord"
+        android:layout_marginTop="25dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:textColor="#111113"
+        android:text="PAMUN Conference Manager"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+    <TextView
+        android:id="@+id/npc"
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginStart="30dp"
+        android:text="Name: Ouriel Reshef"
+        android:textAllCaps="false"
+        android:textColor="#0c14ac"
+        android:background="@android:color/transparent"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/eepc"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginStart="30dp"
+            android:text="Email: "
+            android:textAllCaps="false"
+            android:textColor="#0c14ac"
+            android:background="@android:color/transparent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/epc"
+            android:layout_width="wrap_content"
+            android:text=""
+            android:textAllCaps="false"
+            android:textColor="#0c14ac"
+            android:background="@android:color/transparent"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/sg"
+        android:layout_marginTop="25dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:textColor="#111113"
+        android:text="PAMUN Secretary General"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+    <TextView
+        android:id="@+id/nsg"
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginStart="30dp"
+        android:text="Name: Mia Kwon"
+        android:textAllCaps="false"
+        android:textColor="#0c14ac"
+        android:background="@android:color/transparent"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/eesg"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginStart="30dp"
+            android:text="Email: "
+            android:textAllCaps="false"
+            android:textColor="#0c14ac"
+            android:background="@android:color/transparent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/esg"
+            android:layout_width="wrap_content"
+            android:text=""
+            android:textAllCaps="false"
+            android:textColor="#0c14ac"
+            android:background="@android:color/transparent"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/dsg"
+        android:layout_marginTop="25dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:textColor="#111113"
+        android:text="PAMUN Deputy Secretary Generals"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+    <TextView
+        android:id="@+id/ndsg1"
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginStart="30dp"
+        android:text="Name: Zirdi Syukur"
+        android:textAllCaps="false"
+        android:textColor="#0c14ac"
+        android:background="@android:color/transparent"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/eesg1"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginStart="30dp"
+            android:text="Email: "
+            android:textAllCaps="false"
+            android:textColor="#0c14ac"
+            android:background="@android:color/transparent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/esg1"
+            android:layout_width="wrap_content"
+            android:text=""
+            android:textAllCaps="false"
+            android:textColor="#0c14ac"
+            android:background="@android:color/transparent"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/ndsg2"
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginStart="30dp"
+        android:text="Name: Vignesh Sreedhar"
+        android:textAllCaps="false"
+        android:textColor="#0c14ac"
+        android:background="@android:color/transparent"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/eesg2"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginStart="30dp"
+            android:text="Email: "
+            android:textAllCaps="false"
+            android:textColor="#0c14ac"
+            android:background="@android:color/transparent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/esg2"
+            android:layout_width="wrap_content"
+            android:text=""
+            android:textAllCaps="false"
+            android:textColor="#0c14ac"
+            android:background="@android:color/transparent"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/ndsg3"
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginStart="30dp"
+        android:text="Name: Shivank Misra"
+        android:textAllCaps="false"
+        android:textColor="#0c14ac"
+        android:background="@android:color/transparent"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/eesg3"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginStart="30dp"
+            android:text="Email: "
+            android:textAllCaps="false"
+            android:textColor="#0c14ac"
+            android:background="@android:color/transparent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/esg3"
+            android:layout_width="wrap_content"
+            android:text=""
+            android:textAllCaps="false"
+            android:textColor="#0c14ac"
+            android:background="@android:color/transparent"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/ndsg4"
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginStart="30dp"
+        android:text="Name: Gabriella Poupel"
+        android:textAllCaps="false"
+        android:textColor="#0c14ac"
+        android:background="@android:color/transparent"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/eesg4"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginStart="30dp"
+            android:text="Email: "
+            android:textAllCaps="false"
+            android:textColor="#0c14ac"
+            android:background="@android:color/transparent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/esg4"
+            android:layout_width="wrap_content"
+            android:text=""
+            android:textAllCaps="false"
+            android:textColor="#0c14ac"
+            android:background="@android:color/transparent"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+</LinearLayout>

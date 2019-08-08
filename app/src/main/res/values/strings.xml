@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">PAMUN 2018</string>
+    <string name="homescreenname">PAMUN 2018</string>
+    <string name="homescreen_subname">American School of Paris</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Paris Model United Nations</string>
+    <string name="nav_header_subtitle">American School of Paris</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="venue">Venue</string>
+    <string name="action_settings">Settings</string>
+    <string name="themes">Theme and Issues on the Agenda</string>
+    <string name="researchreport">Research Reports</string>
+    <string name="conference">Conference Schedule</string>
+    <string name="whatnew">What is New?</string>
+    <string name="countrylist">Country Lists</string>
+    <string name="execteam">Executive Team 2018</string>
+    <string name="bpolitics">Bloc Politics – Caucusing</string>
+    <string name="sbpoliticstext">\nThe system of \“bloc politics\” in the UN is one in which nations have organized themselves into groups based on areas of mutual interest.
+    \n\nAt PAMUN, students in their committees as well as in the GA will be encouraged to caucus in their “Blocs”, before they cross lines to enlist support of other countries belonging to different blocs.
+    \n\nIn their preparation for the conference, students are strongly urged to make themselves aware not only of their own country policies and positions, but also of the bloc to which it belongs.
+    \n\nDelegates willing to do so may discover that the leverage they acquire on the debates and on their outcomes is multiplied when buttressed by other countries from their bloc.
+    \n\nClick here for the blocs of PAMUN this year: http://asp-edu.net/pamun/pamun2013/wp-content/uploads/2017/04/Bloc-Politics.pdf </string>
+    <string name="specialclausetopics">Specialized Clause/Topics</string>
+    <string name="specialclausetopicstext">\nOne of the consequences of clause-by-clause debate at PAMUN is that delegates tend to fail clauses because they feel that many important points are not covered by the clause although they will most likely be covered subsequently in other clauses.
+        \n\nIn order to solve this problem, the Research Reports will clearly state which specialized sub-topics are expected to be covered by the debate and the resolution, and delegates will be reminded of these specialized sub-topics at the beginning of the debate by the expert chair.
+        \n\nClauses submitted for debate will have to focus on one of those specialized sub-topics, and the debate in committee will be clearly steered in such a way that there will be time for all different sub-topics to be addressed.
+        \n\nHowever, it goes without saying that such specialized sub-topics as mentioned in the Research Reports, may not exhaust all possible topics, and if a delegate comes-up with a clause that does not correspond to a specific “official” sub-topic, it may still be entertained at the chairs’ discretion.</string>
+    <string name="spt">Strict Participation Tally</string>
+    <string name="spttext">\nThe difficulty experienced by some delegates to obtain the floor or even ask points of information is often mentioned as one of the “issues” which delegates have to wrestle with, especially in bigger committees. Up to now, even though the complaint is recurrent, it is based-off impressions and has little factual basis.
+        \n\nThis is the goal of implementing a strict participation tally, which will be kept by the Chairs. This tally will, on the one hand, eventually allow for some redirection between day 1 and day 2, and on the other hand, provide us with invaluable information on the basis of which important decisions may be made to tackle this challenging issue.
+        \n\nIn the last years, the results of this tally were conclusive: in both big committees involved, a third of students had a lot of action, another third had “some action”, and the last third had no action at all – and we don’t know if this is because they didn’t raise their placards, or if they did but were ignored by the chairs. We will share this result at the Chairs’ Workshop, and seek ways to improve the percentages of active participation.</string>
+    <string name="noteapp">Note Passing App</string>
+    <string name="noteapptext">\nYou were probably impressed and horrified at the end of each day, to behold the mountain of paper used in note passing and discarded.
+        \n\nA conference in Taiwan has developed an App allowing to do the note passing and note screening digitally.
+        \n\nWe will experiment this App during the conference in two committees (Environment Committee and Special Conference), and MUN directors will also have access through their devices to the notes and be able to follow their threads.</string>
+    <string name="clauseformatting">PAMUN Clause Formatting</string>
+    <string name="clauseformattingtext">\nEach clause should adhere to the following principles:
+        \n\n - A clause should begin with an operative clause phrase, which should be underlined (sample phrases are under \"List of Operative Clause Phrases\").
+        \n\n - A clause should be numbered (1. 2. 3.).
+        \n\n - Colons (:) separate clauses from sub-clauses and sub-sub-clauses.
+        \n\n - First letters of sub-clauses and sub-sub-clauses are not capitalized.
+        \n\n - Sub-clauses should be lettered (a. b. c.) and sub-sub-clauses should be numbered with roman numerals (i. ii. iii.).
+        \n\n - All clauses (except the last clause in the resolution) end with a semicolon (;).
+        \n\n - The last clause in the resolution ends with a period(.).
+        \n\n - A clause can have zero sub-clauses/sub-sub-clauses, or two or more sub-clauses/sub-sub-clauses, but it can never have just one sub-clause/sub-sub-clauses.
+        \n\n - A clause should read as a single sentence.</string>
+    <string name="goodclause">What Makes a Good Clause?</string>
+    <string name="goodclausetext">\nA good clause&#8230;
+        \n\n - is <u>specific</u> and <u>realistic</u>.
+        \n\n - describes the where, when, who, and how, but <u>not the why</u>.
+        \n\n - is clearly <u>organized</u> and <u>outlines the key points</u>.
+        \n\n - focuses on a <u>specific aspect</u> of the issue.
+        \n\n - is of <u>reasonable size</u>.</string>
+    <string name="listopphrases">List of Operative Clause Phrases</string>
+    <string name="listopphrasestext">
+        \nAsks; Calls for; Calls upon; Confirms; Considers; Declares; Demands (SC only); Draws the attention to; Emphasizes; Encourages;
+        Further asks; Further invites; Further recommends; Further requests; Further suggests; Further urges; Implores; Invites; Recommends;
+        Reminds; Requests; Strongly urges; Suggests; Urges
+    </string>
+    <string name="clausedbaseddebate">PAMUN Clause-Based Debate</string>
+    <string name="clausedbaseddebatetext">\nAt PAMUN, debates are clause-based instead of being resolution-based. This form of debate gives all delegates the opportunity to actively participate and form a resolution that most of them would support.
+        \n\nThere is usually a blend of first-time delegates and the more experienced and skilled at PAMUN. So unlike in resolutions, each delegate will be given the opportunity to voice his/her opinions and represent their stance on the issue by presenting their individual clauses.
+        \n\nInstead of preparing resolutions prior to the conference, delegates are expected to prepare clauses. These individual clauses are debated, and the clauses that pass will be incorporated in the final resolution. The final resolution is then debated as a whole.</string>
+    <string name="pointsmotions">Points and Motions</string>
+    <string name="pointsmotionstext">\nPoints should never interrupt a speaker unless it is a point of personal privilege due to audibility. Below are the points entertained in PAMUN:
+        \n\n - Point of Order: Corrections to the chair in terms of procedural matters.
+        \n\n - Point of Personal Privilege: Refers to the comfort and well-being of the delegate (e.g. delegate not being audible, too hot in the committee room). Point of Personal Privilege due to Audibility is the only point that can interrupt a speaker.
+        \n\n - Point of Information to the Chair: Question to the chair about the content of the clause/amendment/resolution or topic being debated.
+        \n\n - Point of (Parliamentary) Enquiry: Questions about the procedure or administrative details.
+        \n\n - Point of Information: Question to the delegate pertaining to his/her speech. These are entertained after a speech.
+
+    \n\n\n\nBelow are the principle motions entertained at PAMUN:
+    \n\n - Motion to move from/to the previous question: Motion to move directly into the next stage of debate
+    \n\n - Motion to extend points of information: Motion to increase the number of points
+    of information to the speaker.
+    \n\n - Motion to extend debate time: Motion to increase the number of speakers
+    for/against the clause/amendment during closed debate.
+    \n\n - Motion to table the clause: Clause being debated is put on hold to be debated later.</string>
+    <string name="caucus_lobbying">Caucus</string>
+    <string name="caucus_lobbyingtext">\nAt PAMUN, we call lobbying "caucus". Caucus generally occurs before debating each topic. During caucus, there is no formal debate, and the delegates are free to walk around and talk to other delegates; the main objective is to merge and edit clauses that they prepare prior to the conference.
+        \n\nAfter receiving a sufficient number of signatures (committee chairs will inform you of the number), delegates may submit their clauses to the chair. Caucus also gives delegates the opportunity to collaborate with other members of their bloc. Sometimes, chairs may introduce short caucuses during debate if necessary.</string>
+    <string name="structureofdebate">Structure of Debate</string>
+    <string name="structureofdebatetext">\nAfter caucus elapses, the chair commences the debate by recognizing a delegate to entertain his/her clause. The main submitter takes the floor, reads the clause, and delivers a speech, after which he/she may respond to points of information or yield the floor to another delegate.
+        \n\nNext, the chair moves to open debate on the main submitter\'s clause. After some time, the chair moves to closed debate after which delegates vote on the clause. Open and closed debate are further explained in the next section.
+        \n\nThroughout the conference, chairs entertain many clauses, and each clause goes through this process before getting voted on. At the end of the day, delegates will debate and vote on the resolution as a whole, which will include all the passed clauses.</string>
+    <string name="opencloseddebate">Open and Closed Debate</string>
+    <string name="opencloseddebatetext">\nDebate in PAMUN comprises three main sections: open debate, closed debate, and voting procedures. During open debate, delegates can make speeches for or against the clause debated, or submit an amendment to the clause. Every speech (in open/closed debate) is following by points of information.
+        \n\nWhen a delegate submits an amendment, the chair entertains closed debate on the amendment. Unlike open debate, where there is no set limitations in the number of speakers, closed debate only allows a set number of speakers for and against (decided by chair). After these speeches, delegates vote on the amendment.
+        \n\nIf the amendment passes, the necessary changes will be made to the clause. After some time, the chair moves to closed debate on the final clause. This is followed by voting on the clause as a whole. </string>
+    <string name="amendments">Amendments</string>
+    <string name="amendmentstext">\nAs mentioned above, delegates may submit an amendment to the clause during open debate. An amendment is Written statement that adds, removes, clarifies, or replaces an operative clause. Here are some examples:
+        \n\n- Add sub-clause a. &#8230;
+        \n\n- Strike sub-clause a. &#8230;
+        \n\n- Replace the \"World Bank\" with the \"International Monetary Fund (IMF)\" &#8230;
+        \n\nFriendly amendments are not in order unless it is a minute grammar/spelling correction that the chair can introduce, and amendments to the second degree are also not in order.
+        \n\nJust a reminder, make sure that your amendments are as constructive as possible; chairs will always prioritize constructive amendments over destructives ones.</string>
+    <string name="voting">Voting</string>
+    <string name="votingtext">\nDelegates can choose to vote for or against, or abstain from voting when voting for clauses and the resolution as a whole. For amendments, however, abstentions are not in order.
+        \n\nUnless you are a part of the Security Council, a simple majority is enough to pass a clause/amendment/resolution. When there is a tie, nonetheless, the clause/amendment/resolution fails.
+        \n\nJust a reminder, motions are suspending during voting procedures, and motion to divide the house is not entertained in PAMUN.
+        \n\nFor Security Council delegates, in order for a clause or resolution to pass, there need to be at least 9 votes in favor. P5 nations (US, China, Russia, UK, France) have the power to veto clauses/amendments/resolutions. This means that if any P5 country votes against, the clause/amendment/resolution will not pass.
+        \n\nHowever, delegates representing a P5 Nation in the UNSC should keep in mind that in the real United Nations, the veto power is rarely used and therefore abusing it during committee sessions is highly discouraged. </string>
+    <string name="miscellaneous">Miscellaneous</string>
+    <string name="miscellaneoustext">\nPlease remember the following rules:
+        \n\n - No technology (except caucus)
+        \n\n - No smoking
+        \n\n - Formal dress code
+        \n\n - Third person phrasing (Don\'t use personal pronouns, such as you/me)
+        \n\n - Don’t damage placards</string>
+    <string name="previousresolutions">Previous PAMUN Resolutions</string>
+    <string name="pamun">PAMUN Website</string>
+    <string name="countrylists">Country Lists</string>
+    <string name="charter">UN Charter</string>
+    <string name="humanrights">Universal Declaration of Human Rights</string>
+    <string name="accesstext">Access UN CountryStats</string>
+    <string name="unausa">UNA-USA MUN</string>
+    <string name="bestdelegate">BestDelegate MUN</string>
+
+</resources>
+
+
+

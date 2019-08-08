@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ResearchReportActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="0dp">
+
+            <TextView
+                android:id="@+id/heading"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:textColor="#0c14ac"
+                android:text="Research Reports"
+                android:layout_marginTop="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"/>
+
+            <TextView
+                android:id="@+id/ga"
+                android:layout_marginTop="20dp"
+                android:layout_marginStart="16dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="@dimen/spacing_medium"
+                android:layout_marginEnd="@dimen/spacing_medium"
+                android:textSize="18dp"
+                android:textStyle="bold"
+                android:textColor="#111113"
+                android:text="General Assembly"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+
+            <Button
+                android:id="@+id/ga1"
+                android:layout_width="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginStart="30dp"
+                android:layout_marginRight="@dimen/spacing_medium"
+                android:layout_marginEnd="@dimen/spacing_medium"
+                android:text="Drafting a Global Compact for Migration"
+                android:layout_gravity="start"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textColor="#0c14ac"
+                android:background="@android:color/transparent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/sc"
+                android:layout_marginTop="20dp"
+                android:layout_marginStart="16dp"
+                android:layout_marginLeft="16dp"
+                android:textSize="18dp"
+                android:textStyle="bold"
+                android:textColor="#111113"
+                android:text="Security Council"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+
+            <Button
+                android:id="@+id/sc1"
+                android:layout_width="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginStart="30dp"
+                android:text="Question of the Rohingya crisis\n "
+                android:layout_marginRight="@dimen/spacing_medium"
+                android:layout_marginEnd="@dimen/spacing_medium"
+                android:textAllCaps="false"
+                android:textAlignment="textStart"
+                android:layout_gravity="start"
+                android:textColor="#0c14ac"
+                android:background="@android:color/transparent"
+                android:layout_height="wrap_content" />
+
+            <Button
+                android:id="@+id/sc2"
+                android:layout_width="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginStart="30dp"
+                android:text="Question of establishing a UN Parliamentary Assembly"
+                android:layout_marginRight="@dimen/spacing_medium"
+                android:layout_marginEnd="@dimen/spacing_medium"
+                android:textAlignment="textStart"
+                android:layout_gravity="start"
+                android:textAllCaps="false"
+                android:textColor="#0c14ac"
+                android:background="@android:color/transparent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/ecosoc"
+                android:layout_marginTop="20dp"
+                android:layout_marginStart="16dp"
+                android:layout_marginLeft="16dp"
+                android:textSize="18dp"
+                android:textStyle="bold"
+                android:textColor="#111113"
+                android:text="ECOSOC"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+
+            <Button
+                android:id="@+id/ecosoc1"
+                android:layout_width="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginStart="30dp"
+                android:text="Creating a framework for corporate responsibility in preservation of socioeconomic rights"
+                android:layout_marginRight="@dimen/spacing_medium"
+                android:layout_marginEnd="@dimen/spacing_medium"
+                android:textAllCaps="false"
+                android:textAlignment="textStart"
+                android:layout_gravity="start"
+                android:textColor="#0c14ac"
+                android:background="@android:color/transparent"
+                android:layout_height="wrap_content" />
+
+            <Button
+                android:id="@+id/ecosoc2"
+                android:layout_width="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginStart="30dp"
+                android:text="Question of financing the sustainable development goals in LEDCs through mutual cooperation"
+                android:layout_marginRight="@dimen/spacing_medium"
+                android:layout_marginEnd="@dimen/spacing_medium"
+                android:textAllCaps="false"
+                android:textColor="#0c14ac"
+                android:textAlignment="textStart"
+                android:layout_gravity="start"
+                android:background="@android:color/transparent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/pc"
+                android:layout_marginTop="20dp"
+                android:layout_marginStart="16dp"
+                android:layout_marginLeft="16dp"
+                android:textSize="18dp"
+                android:textStyle="bold"
+                android:textColor="#111113"
+                android:text="Political Committee"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+
+            <Button
+                android:id="@+id/pc1"
+                android:layout_width="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginStart="30dp"
+                android:text="Measures to promote state-building and good governance in the Middle East in furtherance of combatting the growth of radicalism – the case of Iraq"
+                android:layout_marginRight="@dimen/spacing_medium"
+                android:layout_marginEnd="@dimen/spacing_medium"
+                android:textAllCaps="false"
+                android:textColor="#0c14ac"
+                android:textAlignment="textStart"
+                android:layout_gravity="start"
+                android:background="@android:color/transparent"
+                android:layout_height="wrap_content" />
+
+            <Button
+                android:id="@+id/pc2"
+                android:layout_width="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginStart="30dp"
+                android:layout_marginRight="@dimen/spacing_medium"
+                android:layout_marginEnd="@dimen/spacing_medium"
+                android:text="Question of mobilizing the international community to actively combat corruption"
+                android:textAllCaps="false"
+                android:textColor="#0c14ac"
+                android:textAlignment="textStart"
+                android:layout_gravity="start"
+                android:background="@android:color/transparent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/hc"
+                android:layout_marginTop="20dp"
+                android:layout_marginStart="16dp"
+                android:layout_marginLeft="16dp"
+                android:textSize="18dp"
+                android:textStyle="bold"
+                android:textColor="#111113"
+                android:text="Human Rights Committee"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+
+            <Button
+                android:id="@+id/hc1"
+                android:layout_width="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginStart="30dp"
+                android:layout_marginRight="@dimen/spacing_medium"
+                android:layout_marginEnd="@dimen/spacing_medium"
+                android:text="Measures to strengthen the rights of the indigenous people"
+                android:textAllCaps="false"
+                android:textColor="#0c14ac"
+                android:textAlignment="textStart"
+                android:layout_gravity="start"
+                android:background="@android:color/transparent"
+                android:layout_height="wrap_content" />
+
+            <Button
+                android:id="@+id/hc2"
+                android:layout_width="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginStart="30dp"
+                android:layout_marginRight="@dimen/spacing_medium"
+                android:layout_marginEnd="@dimen/spacing_medium"
+                android:text="Measures to strengthen coordination of humanitarian aid in response to emergencies"
+                android:textAllCaps="false"
+                android:textColor="#0c14ac"
+                android:textAlignment="textStart"
+                android:layout_gravity="start"
+                android:background="@android:color/transparent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/ec"
+                android:layout_marginTop="20dp"
+                android:layout_marginStart="16dp"
+                android:layout_marginLeft="16dp"
+                android:textSize="18dp"
+                android:textStyle="bold"
+                android:textColor="#111113"
+                android:text="Environmental Committee"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+
+            <Button
+                android:id="@+id/ec1"
+                android:layout_width="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginStart="30dp"
+                android:layout_marginRight="@dimen/spacing_medium"
+                android:layout_marginEnd="@dimen/spacing_medium"
+                android:text="Question of the sustainable use and management of marine resources"
+                android:textAllCaps="false"
+                android:textColor="#0c14ac"
+                android:textAlignment="textStart"
+                android:layout_gravity="start"
+                android:background="@android:color/transparent"
+                android:layout_height="wrap_content" />
+
+            <Button
+                android:id="@+id/ec2"
+                android:layout_width="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginStart="30dp"
+                android:layout_marginRight="@dimen/spacing_medium"
+                android:layout_marginEnd="@dimen/spacing_medium"
+                android:text="Question of environmentally displaced people"
+                android:textAllCaps="false"
+                android:textColor="#0c14ac"
+                android:textAlignment="textStart"
+                android:layout_gravity="start"
+                android:background="@android:color/transparent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/unodc"
+                android:layout_marginTop="20dp"
+                android:layout_marginStart="16dp"
+                android:layout_marginLeft="16dp"
+                android:textSize="18dp"
+                android:textStyle="bold"
+                android:textColor="#111113"
+                android:text="UNODC"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+
+            <Button
+                android:id="@+id/unodc1"
+                android:layout_width="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginStart="30dp"
+                android:layout_marginRight="@dimen/spacing_medium"
+                android:layout_marginEnd="@dimen/spacing_medium"
+                android:text="Measures to stem trafficing of cultural property\n "
+                android:textAllCaps="false"
+                android:textAlignment="textStart"
+                android:layout_gravity="start"
+                android:textColor="#0c14ac"
+                android:background="@android:color/transparent"
+                android:layout_height="wrap_content" />
+
+            <Button
+                android:id="@+id/unodc2"
+                android:layout_width="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginStart="30dp"
+                android:layout_marginRight="@dimen/spacing_medium"
+                android:layout_marginEnd="@dimen/spacing_medium"
+                android:text="Question of corruption in sporting events"
+                android:textAllCaps="false"
+                android:textAlignment="textStart"
+                android:layout_gravity="start"
+                android:textColor="#0c14ac"
+                android:background="@android:color/transparent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/unctad"
+                android:layout_marginTop="20dp"
+                android:layout_marginStart="16dp"
+                android:layout_marginLeft="16dp"
+                android:textSize="18dp"
+                android:textStyle="bold"
+                android:textColor="#111113"
+                android:text="UNCTAD"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+
+            <Button
+                android:id="@+id/unctad1"
+                android:layout_width="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginStart="30dp"
+                android:layout_marginRight="@dimen/spacing_medium"
+                android:layout_marginEnd="@dimen/spacing_medium"
+                android:textAlignment="textStart"
+                android:layout_gravity="start"
+                android:text="Question of intellectual property and biodiversity\n "
+                android:textAllCaps="false"
+                android:textColor="#0c14ac"
+                android:background="@android:color/transparent"
+                android:layout_height="wrap_content" />
+
+            <Button
+                android:id="@+id/unctad2"
+                android:layout_width="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginStart="30dp"
+                android:layout_marginRight="@dimen/spacing_medium"
+                android:layout_marginEnd="@dimen/spacing_medium"
+                android:textAlignment="textStart"
+                android:layout_gravity="start"
+                android:text="Measures to promote the diversification of economies in CDDCs"
+                android:textAllCaps="false"
+                android:textColor="#0c14ac"
+                android:background="@android:color/transparent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/sdc"
+                android:layout_marginTop="20dp"
+                android:layout_marginStart="16dp"
+                android:layout_marginLeft="16dp"
+                android:textSize="18dp"
+                android:textStyle="bold"
+                android:textColor="#111113"
+                android:text="Sustainable Development Committee"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+
+            <Button
+                android:id="@+id/sdc1"
+                android:layout_width="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginStart="30dp"
+                android:layout_marginRight="@dimen/spacing_medium"
+                android:layout_marginEnd="@dimen/spacing_medium"
+                android:textAlignment="textStart"
+                android:layout_gravity="start"
+                android:text="Question of agriculture and food security"
+                android:textAllCaps="false"
+                android:textColor="#0c14ac"
+                android:background="@android:color/transparent"
+                android:layout_height="wrap_content" />
+
+            <Button
+                android:id="@+id/sdc2"
+                android:layout_width="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginStart="30dp"
+                android:layout_marginRight="@dimen/spacing_medium"
+                android:layout_marginEnd="@dimen/spacing_medium"
+                android:textAlignment="textStart"
+                android:layout_gravity="start"
+                android:text="Question of gender mainstreaming in all sectors of the economy"
+                android:textAllCaps="false"
+                android:textColor="#0c14ac"
+                android:background="@android:color/transparent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/special"
+                android:layout_marginTop="20dp"
+                android:layout_marginStart="16dp"
+                android:layout_marginLeft="16dp"
+                android:textSize="18dp"
+                android:textStyle="bold"
+                android:textColor="#111113"
+                android:text="Special Conference"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+
+            <Button
+                android:id="@+id/special1"
+                android:layout_width="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginStart="30dp"
+                android:layout_marginRight="@dimen/spacing_medium"
+                android:layout_marginEnd="@dimen/spacing_medium"
+                android:textAlignment="textStart"
+                android:layout_gravity="start"
+                android:text="Redefining the role of the International Court of Justice"
+                android:textAllCaps="false"
+                android:textColor="#0c14ac"
+                android:background="@android:color/transparent"
+                android:layout_height="wrap_content" />
+
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+</LinearLayout>
